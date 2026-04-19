@@ -1,9 +1,11 @@
 # Create_Your_First_Python_Program_From_UST_Fahad
-
-# 📜 Course Completed
+Course link: https://www.coursera.org/projects/first-python-program-ust
 
 ## 📜 Certificate
-`./certificate.pdf`
+![Certificate](./certificate.jpg)
+
+🔗 Verify Certificate:  
+https://www.coursera.org/account/accomplishments/certificate/F5RD3OM0TKWC
 
 ---
 
